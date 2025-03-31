@@ -1,0 +1,48 @@
+# React and React Native dependencies
+react==19.0.0
+react-native==0.78.0
+
+# Babel dependencies
+@babel/core==7.25.2
+@babel/preset-env==7.25.3
+@babel/runtime==7.25.0
+
+# React Native CLI dependencies
+@react-native-community/cli==15.0.1
+@react-native-community/cli-platform-android==15.0.1
+@react-native-community/cli-platform-ios==15.0.1
+
+# React Native presets and configs
+@react-native/babel-preset==0.78.0
+@react-native/eslint-config==0.78.0
+@react-native/metro-config==0.78.0
+@react-native/typescript-config==0.78.0
+
+# TypeScript and type definitions
+@types/jest==29.5.13
+@types/react==19.0.0
+@types/react-test-renderer==19.0.0
+typescript==5.0.4
+
+# Testing and linting tools
+eslint==8.19.0
+jest==29.6.3
+prettier==2.8.8
+react-test-renderer==19.0.0
+
+# Android-specific dependencies
+com.facebook.react:react-android
+com.facebook.react:hermes-android
+io.github.react-native-community:jsc-android:2026004.+
+
+# CocoaPods version
+cocoapods==1.16.2
+
+# Ruby version
+ruby==3.1.0
+
+# Java version
+java==21.0.6
+
+# Node.js version
+node==22.14.0
